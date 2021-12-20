@@ -1,5 +1,17 @@
 # Console-Game
 
+Introduction:
+
+Project, which you can see here, it’s a short game in console. I made this game on subject “fundamental of programming”. This game was written on language C++ in “Microsoft Visual Studio 2019”.
+
+Main idea of the project is to make a game, which based on method “_getch” and moving the cursor to a point given by coordinates. I needed to create a character that could be controlled by using keyboard keys and add more some interactive to it. In the end a got this game.
+
+I completed this project on my own as first-year student in 2021.
+
+12/20/2021
+
+Project description:
+
 Walkthrough:
 
 ![](Video/Walkthrough.gif)
