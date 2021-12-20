@@ -1,7 +1,8 @@
 # Console-Game
 
 Walkthrough:
-![](Video/GameShort2.mp4)
+
+![](Video/Walkthrough.gif)
 
 1. Menu of game.
 ![](Screens/Menu.png)
