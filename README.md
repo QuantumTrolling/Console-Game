@@ -1,7 +1,7 @@
 # Console-Game
 
 Walkthrough:
-![]
+![](Video/Game%202021-12-19%2016-28-08_Trim.mp4)
 
 1. Menu of game.
 ![](Screens/Menu.png)
