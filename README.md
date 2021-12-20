@@ -10,7 +10,7 @@ Walkthrough:
 2. Settings, there you can change the level of difficulty
 ![](Screens/settings.png) 
 
-3. In the "Creator" you can see same information about creator of this game and find his contacts
+3. In the "Creator" you can see some information about creator of this game and find his contacts
 ![](Screens/About.png)
 
 4. Preview of 1 LV
