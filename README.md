@@ -6,7 +6,7 @@ Project, which you can see here, it’s a short game in console. I made this gam
 
 Main idea of the project is to make a game, which based on method “_getch” and moving the cursor to a point given by coordinates. I needed to create a character that could be controlled by using keyboard keys and add more some interactive to it.
 
-Moreover, I add “threads” to make to make moving enemies and parallel display of instructions on the screen, also by using “threads” “Health Point”, “Mana Point” and “Score” available on the screen in same time.
+This way, I add “threads” to make to make moving enemies and parallel display of instructions on the screen, also by using “threads” “Health Point”, “Mana Point” and “Score” available on the screen in same time.
 
 Also, in this game there is a concept of “Fog of War”, which work on file methods. Using files, you can change the location of items and their number (File “FogofWar.txt”). 
 
